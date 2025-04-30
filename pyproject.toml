@@ -1,0 +1,5 @@
+[project]
+name = "rapid-inbox"
+version = "0.1.0"
+description = "Self-hosted inbound email infrastructure with a high-performance C++ SMTP ingestion engine, local storage, and developer APIs."
+requires-python = ">=3.10"
